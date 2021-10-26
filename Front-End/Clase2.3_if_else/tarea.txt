@@ -1,5 +1,0 @@
-1. hacer una estructura if/else que nos diga si hace frio o calor (acuerdense de ponerle ° a la temperatura cuando la impriman eh!)
-
-2. hacer una mas simple que solo sea frio/calor (ternario)
-
-3. hacer un if/else que nos devuelva qué animal es de acuerdo al ruido que hace
