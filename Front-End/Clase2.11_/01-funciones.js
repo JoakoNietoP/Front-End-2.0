@@ -1,41 +1,42 @@
-//* tipos de funciones
+//*tipos de funciones
 //https://dev.to/victordeandres/funciones-en-javascript-7-formas-de-declarar-una-funcion-523a
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions
 //https://www.jasoft.org/Blog/post/Escribiendo-codigo-JavaScript-limpio-funciones-anonimas-auto-ejecutables
 
-//! funcion "clasica": declarativa
-
+//! función "clásica": declarativa
 function saludar(name) {
   console.log("hola " + name);
-};
+}
+saludar("Pam");
 
-saludar(pam);
-
-//! funcion expresion: a mitdad de camino entre declarativa y flecha
-
+//! funcion expresión: a mitad de camino entre declarativa y flecha
 const clima = function temp(grados) {
-  console.log("hoy hace" + grados + "°");
+  console.log("hoy hace " + grados + "º");
 };
-//lo llamamos usando el nombre de la cariable, no la funcion
+//la llamamos usando el nombre de la variable, no de la función
 clima(16);
 
-//! la podemos hacer anonimas
+//! la podemos hacer anónima:
 const juguetes = function (cantidad) {
-  console.log("tengo" + cantidad + "oso de peluche");
+  console.log("tengo " + cantidad + " osos de peluche");
 };
-
 juguetes(5);
 
-//! flecha, nuiestra vieja amiga:
+//! flecha, nuestra vieja amiga:
 const hervir = (litros) => {
-  console.log("hay que hervir" + litros + "para los fideos");
+  console.log("hay que hervir " + litros + " para los fideos");
 };
-hervor(2)(
-  //! iife: inmediately invoque function expression
-  //ojo! si no le ponen el punto y coma a lo anterior... la iife se le pega y hace lio
-  //es descartrable. Se declara sin nombre y se ejecuta en el momento, y despues chau
+hervir(2);
 
-  function () {
-    console.log("hola mundo");
-  }
-)();
+//! iife: immediately invoqued function expression:
+//ojo! si no le ponen el punto y coma a lo anterior... la iife se le pega y hace lío
+//es descartable. Se declara sin nombre y se ejecuta en el momento, y después chau
+
+(function () {
+  console.log("hola nucba");
+})();
+
+//! iife con param:
+(function (user) {
+  console.log("hola", user);
+})("Pam");
