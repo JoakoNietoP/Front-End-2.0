@@ -59,6 +59,10 @@ main {
             border: $light-pink 2px solid;
         }
         //de dónde los saco? del unicode! https://fontawesome.com/v5.15/icons/eraser?style=solid
+        &.add::before {
+            font-family: 'fontAwesome';
+            content: "\f12d";
+        }
     }
 }
 

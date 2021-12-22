@@ -1,0 +1,19 @@
+Super lista de videos:
+
+canales recomendados:
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA ==> en inglés. Un capo. Su react front to back es un curso muy bueno.
+https://www.youtube.com/c/FaztCode => en castellano. Sabe bocha, muy buenos proyectos.
+https://www.youtube.com/c/Academind ==> uno de los mejores instructores.
+https://www.youtube.com/c/DevEd => en inglés. Muy buenos proyectos.
+https://www.youtube.com/c/WebDevSimplified => en inglés. Muy bueno.
+https://www.youtube.com/c/Codevolution
+https://www.youtube.com/c/codigofacilito ==>en castellano
+https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw => en inglés. Muchos tutoriales para hacer juegos.
+https://www.youtube.com/c/Freecodecamp ==> ni necesita presentación.
+https://www.youtube.com/c/FernandoHerreraCr ==> en castellano. Excelente.
+
+https://www.youtube.com/watch?v=3PHXvlpOkf4 ==> 8hs de proyectos javascript.
+https://www.youtube.com/watch?v=JaMCxVWtW58 ==> proyecto booklist. Veanse todo lo de traversy, este tipo es excelente.
+https://www.youtube.com/watch?v=lhNdUVh3qCc ==> 7 juegos.
+https://www.youtube.com/watch?v=ePzOFu2xXUQ ==> 8hs de proyectos javascript
+https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH => 30 días, 30 proyectos js.

@@ -53,4 +53,9 @@ main button:hover {
   background-color: #ffa2b2;
   border: #ffa2b2 2px solid;
 }
+
+main button.add::before {
+  font-family: 'fontAwesome';
+  content: "\f12d";
+}
 /*# sourceMappingURL=style.css.map */
