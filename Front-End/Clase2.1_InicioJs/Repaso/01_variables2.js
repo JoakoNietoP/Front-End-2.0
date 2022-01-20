@@ -13,4 +13,5 @@ const segunda = "hola 2";
 let tercera = "hola 3";
 
 //* para imprimir usamos clg() o console.log()
-console.log(primera + " " + tercera + " " + segunda + ' saludamos a medio pais');
+//console.log(primera + " " + tercera + " " + segunda + ' saludamos a medio pais');
+console.log("primer", primera);
