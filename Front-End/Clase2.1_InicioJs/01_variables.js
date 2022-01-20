@@ -8,11 +8,11 @@ var primera = "hola mundo";
 
 //const es constante: no se puede cambiar
 
-const segunda = "hola 2";
+//const segunda = "hola 2";
 
 //let si puede ser cambiada
 
-let tercera = "hola 3";
+//let tercera = "hola 3";
 
 //para imprimirlas, usamos console.log()
 
