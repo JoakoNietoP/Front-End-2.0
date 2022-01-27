@@ -17,10 +17,9 @@ let conMetodos = "hola mundo";
 console.log("Usando métodos: ", conMetodos.charAt(3));
 //.charAt() se usa para sacar una letra, caracter o valor contando desde 0, 1, 2, 3, etc
 //Podemos hacerlo sin  el metodoy pasamos directamente entre corchetetes[] a cual acceder
-console.log('accediendo directamente al caracter: ', conMetodos[6]);
-console.log('quiero saber que letra esta en el 23', comillasDobles.charAt(23));
-
+console.log("accediendo directamente al caracter: ", conMetodos[6]);
+console.log("quiero saber que letra esta en el 23", comillasDobles.charAt(23));
 
 //podriamos crear una variable nueva para guardar ese caracter que queremois.
-let unaLetra = conMetodos.charAt(7)
-console.log('una letra', unaLetra);
+let unaLetra = conMetodos.charAt(7);
+console.log("una letra", unaLetra);
